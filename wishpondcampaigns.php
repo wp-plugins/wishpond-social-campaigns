@@ -29,7 +29,7 @@ function wishpond_campaigns_page()
         scroll(0,0); 
       } 
     </script>
-    <iframe src="<?php echo WISHPOND_SITE_URL; ?>/central/sessions/new?type=campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&redirect_to=<?php echo WISHPOND_SITE_URL; ?>/central/social_campaigns" width="100%" height="2000" frameBorder="0" onload="scrollToTop()">
+    <iframe src="<?php echo WISHPOND_SITE_URL; ?>/central/merchant_signups/new?type=campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&redirect_to=<?php echo WISHPOND_SITE_URL; ?>/central/social_campaigns" width="100%" height="2000" frameBorder="0" onload="scrollToTop()">
     </iframe>
   </div>
   <?php
