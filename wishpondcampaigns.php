@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Wishpond Social Campaigns
-Plugin URI: http://corp.wishpond.com/social-campaigns/
+Plugin URI: http://wordpress.org/extend/plugins/wishpond-social-campaigns/
 Description: Create your own viral promotional campaigns that spread quickly through social networks.
 Version: 1.0
 Author: Wishpond
