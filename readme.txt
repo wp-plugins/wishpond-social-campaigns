@@ -1,4 +1,4 @@
-=== Wishpond Social Campaigns ===
+=== Social Campaigns ===
 Contributors: atajsekandar 
 Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, Facebook, social media, Twitter, Pinterest, Google+
 Requires at least: 2.0.2
