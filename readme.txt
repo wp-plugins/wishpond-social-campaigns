@@ -17,7 +17,7 @@ You can create two different kinds of promotions:
 
 **Wishpond Social Offers**: create and publish limited-time special offers that spread as people participate. 
 
-* When your visitors participate your offer they share it through all of the major social networks: Facebook, Google+, Twitter, and Pinterest.
+* When your visitors participate in your offer they share it through all of the major social networks: Facebook, Google+, Twitter, and Pinterest.
 * Your offer quickly spreads far and wide to followers and friends of participants, generating new customers, and introducing your brand to a whole new audience. 
 * You specify all the parameters of your offer, through the simple wizard interface. 
 * There are a variety of redemption options: in store, online, or immediately (using our PayPal integration) 
