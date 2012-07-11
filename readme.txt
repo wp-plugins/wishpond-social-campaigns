@@ -1,6 +1,6 @@
 === Social Campaigns ===
 Contributors: atajsekandar 
-Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, Facebook, social media, Twitter, Pinterest, Google Plus, Googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google
+Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 4.3
