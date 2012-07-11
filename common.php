@@ -5,6 +5,7 @@
 
 define('WISHPOND_SITE_URL', 'http://www.wishpond.com');
 define('WISHPOND_ADMIN_MENU', 'wishpond-social-campaigns-menu');
+define('WISHPOND_ADMIN_OPTIONS', 'wishpond-social-campaigns-options');
 
 //Shortcode [wpoffer mid="XX" width="810" height="650"]
 function wpoffer_func($attrs)
