@@ -45,6 +45,7 @@ function wishpond_campaigns_menu()
 }
 add_action("admin_menu","wishpond_campaigns_menu");
 
+//Add settings menu
 function wishpond_campaigns_admin_action_links($links, $file) {
     static $my_plugin;
     if (!$my_plugin) {
@@ -56,6 +57,21 @@ function wishpond_campaigns_admin_action_links($links, $file) {
     }
     return $links;
 }
-
 add_filter('plugin_action_links', 'wishpond_campaigns_admin_action_links', 10, 2);
+
+//Automatically redirect after activation
+register_activation_hook(__FILE__, 'wishpond_plugin_activate');
+add_action('admin_init', 'wishpond_plugin_redirect');
+
+function wishpond_plugin_activate() {
+  add_option('wishpond_plugin_do_activation_redirect', true);
+}
+
+function wishpond_plugin_redirect() {
+  if (get_option('wishpond_plugin_do_activation_redirect', false)) {
+    delete_option('wishpond_plugin_do_activation_redirect');
+    wp_redirect('options-general.php?page='. WISHPOND_ADMIN_OPTIONS);
+  }
+}
+
 ?>
