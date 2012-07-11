@@ -1,6 +1,6 @@
-=== Wishpond Social Campaigns ===
+=== Social Campaigns ===
 Contributors: atajsekandar 
-Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, Facebook, social media, Twitter, Pinterest, Google+
+Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 4.3
@@ -15,8 +15,9 @@ Wishpond Social Campaigns allows you to quickly and easily create and publish sw
 
 You can create two different kinds of promotions:
 
-**Wishpond Social Offers**: create and publish limited-time special offers that spread as people participate. 
-* When your visitors participate your offer they share it through all of the major social networks: Facebook, Google+, Twitter, and Pinterest.
+**Social Offers**: create and publish limited-time special offers that spread as people participate, creating new customers. 
+
+* When your visitors participate in your offer they share it through all of the major social networks: Facebook, Google+, Twitter, and Pinterest.
 * Your offer quickly spreads far and wide to followers and friends of participants, generating new customers, and introducing your brand to a whole new audience. 
 * You specify all the parameters of your offer, through the simple wizard interface. 
 * There are a variety of redemption options: in store, online, or immediately (using our PayPal integration) 
@@ -24,37 +25,54 @@ You can create two different kinds of promotions:
 * Social Offers are one of the most cost effective ways to generate new customers, at just $25 per 100 participants. 
 * You can create and preview your offer completely free. 
 
-**Wishpond Social Sweepstakes**: create and publish sweepstakes that also spread as people participate generating customer leads, brand awareness, and engagement with your brand. 
+**Social Sweepstakes**: create and publish sweepstakes that spread as people participate generating customer leads, brand awareness, and engagement with your brand. 
+
 * As your visitors participate in your sweepstakes they share it via all of the major social networks: Facebook, Google+, Twitter, and Pinterest. 
 * Your sweepstakes quickly spreads far and wide to followers and friends of participants. 
 * You can create and publish your sweepstakes in less than 15 minutes using the simple and intuitive wizard. 
-* Social Sweepstakes are incredibly cost effective, at just $25 per campaign. You can create and preview your sweepstakes completely free. 
+* Social Sweepstakes are incredibly cost effective, at just $25 per campaign (no matter how many participants you have). 
+* You can create and preview your sweepstakes completely free. 
 
-Learn more about [Wishpond Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Wishpond Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes") on [our website](http://corp.wishpond.com/ "Wishpond"). 
+Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
 
 == Installation ==
 
-1. Upload `wishpondcampaigns` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Create a Wishpond account (or log in to your existing account) in the 'Campaigns' menu in Wordpress
-1. Create your first offer or sweepstakes using the simple wizard and follow the instructions to publish it to your website
+1. Download and unzip the Social Campaigns plugin.
+1. Upload `wishpond-social-campaigns` folder to the `/wp-content/plugins/` directory.
+1. Activate the plugin through the 'Plugins' menu in WordPress.
+1. You will be automatically redirected to the newly created 'Campaigns' menu within WordPress.
+1. From here click 'Create' and you will be able to choose to create your first Social Sweepstakes or Social Offer. 
 
 == Frequently Asked Questions ==
 
 = Do I need to have a Wishpond account set up already? =
 
-No. You can set up a Wishpond account once you have installed and activated the plugin. 
+No. We automatically create a Wishpond account for you. 
 
 = How much does it cost to run a campaign? =
 
 Social Sweepstakes and Social Offers are both extremely cost effective. 
+
+* It is free to create and preview an offer or a sweepstakes campaign. 
 * Wishpond Social Sweepstakes costs $25 per campaign. This is a flat fee regardless of how many people participate in the sweepstakes. 
 * Wishpond Social Offers costs $25 per 100 participants (or part thereof). 
-* It is free to create and preview an offer or a sweepstakes campaign. 
+
 
 = Can I try out Social Campaigns free? =
 
 It is free to create a Wishpond account, and you can create and preview a Social Offer or Social Sweepstakes before you decide to publish it. In order to publish your campaign you must first pay for it. 
+
+= What is the difference between Social Offers and Social Sweepstakes? =
+
+With Social Campaigns you can create 2 kinds of promotions: Social Offers and Social Sweepstakes. 
+
+Social Offers lets you create limited-time offers on your goods or services. You get to choose all the parameters of the offer. For example you can set a minimum number of participants required to 'unlock' the deal, making it a group buying promotion. You can choose any good or service (or group of goods and services) to create a Social Offer for. You choose the number of people who can participate, the duration of the promotion, the redemption method and instructions, and of course the size of the discount. 
+
+Social Sweepstakes is used to run giveaways which people are required to enter to win. Again, all the parameters of the Social Sweepstakes are up to you. You choose what you want to give away, and how long the Social Sweepstakes will run for. 
+
+Both Social Offers and Social Sweepstakes spread through the major social networks as people participate. That's why we call them social! 
+
+Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
 
 == Screenshots ==
 
