@@ -76,14 +76,13 @@ Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpo
 
 == Screenshots ==
 
-1. The Campaigns Login screen in the Wordpress admin panel
-2. Creating a Social Offer within the Wordpress admin panel
-3. Previewing a Social Offer in the Wordpress admin panel
-4. View and manage all of your Social Campaigns within the Wordpress admin panel
-5. A Social Offer live on a Wordpress site
-6. A Social Sweepstakes live on a Wordpress site
-7. A Social Sweepstakes live on a Wordpress site (using the widget functionality to display in the side bar)
-8. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
+1. Creating a Social Offer within the Wordpress admin panel
+2. Previewing a Social Offer in the Wordpress admin panel
+3. View and manage all of your Social Campaigns within the Wordpress admin panel
+4. A Social Offer live on a Wordpress site
+5. A Social Sweepstakes live on a Wordpress site
+6. A Social Sweepstakes live on a Wordpress site (using the widget functionality to display in the side bar)
+7. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
 
 == Changelog ==
 
