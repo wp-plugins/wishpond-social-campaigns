@@ -54,8 +54,8 @@ No. We automatically create a Wishpond account for you.
 Social Sweepstakes and Social Offers are both extremely cost effective. 
 
 * It is free to create and preview an offer or a sweepstakes campaign. 
-* Wishpond Social Sweepstakes costs $25 per campaign. This is a flat fee regardless of how many people participate in the sweepstakes. 
-* Wishpond Social Offers costs $25 per 100 participants (or part thereof). 
+* Wishpond Social Sweepstakes costs $9 per campaign. This is a flat fee regardless of how many people participate in the sweepstakes. 
+* Wishpond Social Offers costs $9 per campaign. 
 
 
 = Can I try out Social Campaigns free? =
