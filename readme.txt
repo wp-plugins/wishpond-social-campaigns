@@ -3,7 +3,7 @@ Contributors: atajsekandar
 Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google
 Requires at least: 2.0.2
 Tested up to: 3.4.1
-Stable tag: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -85,6 +85,9 @@ Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpo
 7. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
 
 == Changelog ==
+
+= 1.1 =
+* Automatic login so that you don't need to manage extra login information. Improved sweepstakes and offers. Better tracking.
 
 = 1.0 =
 * The first version. The big bang. Where it all began. 
