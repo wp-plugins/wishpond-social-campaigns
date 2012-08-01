@@ -3,7 +3,7 @@ Contributors: atajsekandar
 Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google
 Requires at least: 2.0.2
 Tested up to: 3.4.1
-Stable tag: 4.3
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
