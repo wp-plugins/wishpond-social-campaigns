@@ -7,7 +7,7 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Quickly and easily create promotions that spread quickly through all the major social networks: Facebook, Twitter, Pinterest, and Google+. 
+Quickly and easily create promotions that spread virally through all the major social networks: Facebook, Twitter, Pinterest, and Google+. 
 
 == Description ==
 
