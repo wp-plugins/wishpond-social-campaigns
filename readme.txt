@@ -21,7 +21,7 @@ You can create two different kinds of promotions:
 * Your offer quickly spreads far and wide to followers and friends of participants, generating new customers, and introducing your brand to a whole new audience. 
 * You specify all the parameters of your offer, through the simple wizard interface. 
 * There are a variety of redemption options: in store, online, or immediately (using our PayPal integration) 
-* You can create and publish your offer in less than 15 minutes. 
+* You can create and publish your offer in less than 5 minutes. 
 * Social Offers are one of the most cost effective ways to generate new customers, at just $9 per month after the first month of free trial. 
 * You can run unlimited offers for free for one month. 
 
@@ -29,7 +29,7 @@ You can create two different kinds of promotions:
 
 * As your visitors participate in your sweepstakes they share it via all of the major social networks: Facebook, Google+, Twitter, and Pinterest. 
 * Your sweepstakes quickly spreads far and wide to followers and friends of participants. 
-* You can create and publish your sweepstakes in less than 15 minutes using the simple and intuitive wizard. 
+* You can create and publish your sweepstakes in less than 5 minutes using the simple and intuitive wizard. 
 * Social Sweepstakes are incredibly cost effective, at just $9 per month after the first month of free trial (no matter how many participants you have). 
 * You can run unlimited sweepstakes for free for one month. 
 
