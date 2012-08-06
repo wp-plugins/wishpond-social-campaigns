@@ -1,13 +1,13 @@
 === Social Campaigns ===
 Contributors: atajsekandar 
-Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google
+Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google, viral, fb, buttons, facebook buttons
 Requires at least: 2.0.2
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Quickly and easily create promotions that spread quickly through all the major social networks: Facebook, Twitter, Pinterest, and Google+. 
+Quickly and easily create promotions that spread virally through all the major social networks: Facebook, Twitter, Pinterest, and Google+. 
 
 == Description ==
 
@@ -21,16 +21,16 @@ You can create two different kinds of promotions:
 * Your offer quickly spreads far and wide to followers and friends of participants, generating new customers, and introducing your brand to a whole new audience. 
 * You specify all the parameters of your offer, through the simple wizard interface. 
 * There are a variety of redemption options: in store, online, or immediately (using our PayPal integration) 
-* You can create and publish your offer in less than 15 minutes. 
-* Social Offers are one of the most cost effective ways to generate new customers, at just $9 per month after the first month of free trial. 
+* You can create and publish your offer in less than 5 minutes. 
+* Social Offers are one of the most cost effective ways to generate new customers, try completely free for the first month.
 * You can run unlimited offers for free for one month. 
 
 **Social Sweepstakes**: create and publish sweepstakes that spread as people participate generating customer leads, brand awareness, and engagement with your brand. 
 
 * As your visitors participate in your sweepstakes they share it via all of the major social networks: Facebook, Google+, Twitter, and Pinterest. 
 * Your sweepstakes quickly spreads far and wide to followers and friends of participants. 
-* You can create and publish your sweepstakes in less than 15 minutes using the simple and intuitive wizard. 
-* Social Sweepstakes are incredibly cost effective, at just $9 per month after the first month of free trial (no matter how many participants you have). 
+* You can create and publish your sweepstakes in less than 5 minutes using the simple and intuitive wizard. 
+* Social Sweepstakes are incredibly cost effective, try completely free for the first month.
 * You can run unlimited sweepstakes for free for one month. 
 
 Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
@@ -54,8 +54,8 @@ No. We automatically create a Wishpond account for you.
 Social Sweepstakes and Social Offers are both extremely cost effective. 
 
 * You can run unlimited campaigns for free for the first month.
-* Wishpond Social Sweepstakes costs $9 per month after the first month of free trial. You can run as many sweepstakes as you want and get as many participants as you like. 
-* Wishpond Social Offers also costs $9 per month after the first month of free trial.
+* Wishpond Social Sweepstakes is free to try for the first month. You can run as many sweepstakes as you want and get as many participants as you like. 
+* Wishpond Social Offers is also free to try for the first month.
 
 
 = Can I try out Social Campaigns free? =
@@ -85,6 +85,9 @@ Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpo
 7. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
 
 == Changelog ==
+
+= 1.1 =
+* Automatic login so that you don't need to manage extra login information. Improved sweepstakes and offers. Better tracking.
 
 = 1.0 =
 * The first version. The big bang. Where it all began. 
