@@ -22,7 +22,7 @@ You can create two different kinds of promotions:
 * You specify all the parameters of your offer, through the simple wizard interface. 
 * There are a variety of redemption options: in store, online, or immediately (using our PayPal integration) 
 * You can create and publish your offer in less than 5 minutes. 
-* Social Offers are one of the most cost effective ways to generate new customers, at just $9 per month after the first month of free trial. 
+* Social Offers are one of the most cost effective ways to generate new customers, try completely free for the first month.
 * You can run unlimited offers for free for one month. 
 
 **Social Sweepstakes**: create and publish sweepstakes that spread as people participate generating customer leads, brand awareness, and engagement with your brand. 
@@ -30,7 +30,7 @@ You can create two different kinds of promotions:
 * As your visitors participate in your sweepstakes they share it via all of the major social networks: Facebook, Google+, Twitter, and Pinterest. 
 * Your sweepstakes quickly spreads far and wide to followers and friends of participants. 
 * You can create and publish your sweepstakes in less than 5 minutes using the simple and intuitive wizard. 
-* Social Sweepstakes are incredibly cost effective, at just $9 per month after the first month of free trial (no matter how many participants you have). 
+* Social Sweepstakes are incredibly cost effective, try completely free for the first month.
 * You can run unlimited sweepstakes for free for one month. 
 
 Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
@@ -54,8 +54,8 @@ No. We automatically create a Wishpond account for you.
 Social Sweepstakes and Social Offers are both extremely cost effective. 
 
 * You can run unlimited campaigns for free for the first month.
-* Wishpond Social Sweepstakes costs $9 per month after the first month of free trial. You can run as many sweepstakes as you want and get as many participants as you like. 
-* Wishpond Social Offers also costs $9 per month after the first month of free trial.
+* Wishpond Social Sweepstakes is free to try for the first month. You can run as many sweepstakes as you want and get as many participants as you like. 
+* Wishpond Social Offers is also free to try for the first month.
 
 
 = Can I try out Social Campaigns free? =
