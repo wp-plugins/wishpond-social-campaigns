@@ -7,31 +7,38 @@ Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Quickly and easily create promotions that spread virally through all the major social networks: Facebook, Twitter, Pinterest, and Google+. 
+ 
 
 == Description ==
 
-Wishpond Social Campaigns allows you to quickly and easily create and publish sweepstakes and offers on your Wordpress website. You can publish the campaigns as posts or pages, or  within existing posts and pages using a simple short code. You can also publish them in the side bar of your Wordpress site using simple widgets (if your theme supports widgets). 
+Easily gather new Customer Intelligence - and new customers - by running Sweepstakes and Offers on your Worpdress site & Facebook Page. Free 30-day trial.
 
-You can create two different kinds of promotions:
 
-**Social Offers**: create and publish limited-time viral offers that spread as people participate, creating new customers. 
+**Social Offers**
 
-* When your visitors participate in your offer they share it through all of the major social networks: Facebook, Google+, Twitter, and Pinterest.
-* Your offer quickly spreads far and wide to followers and friends of participants, generating new customers, and introducing your brand to a whole new audience. 
-* You specify all the parameters of your offer, through the simple wizard interface. 
-* There are a variety of redemption options: in store, online, or immediately (using our PayPal integration) 
-* You can create and publish your offer in less than 5 minutes. 
-* Social Offers are one of the most cost effective ways to generate new customers, try completely free for the first month.
-* You can run unlimited offers for free for one month. 
+1. Create a store-wide or item discount Offer
+2. Run the Offer on your Website and/or Facebook Page
+3. Customers enter & a post is made to their Facebook Profile - which is distributed to the News Feed of their entire social network
+4. Entrants purchase immediately via PayPal or on your Shopify Store
 
-**Social Sweepstakes**: create and publish sweepstakes that spread as people participate generating customer leads, brand awareness, and engagement with your brand. 
+**Social Sweepstakes** 
 
-* As your visitors participate in your sweepstakes they share it via all of the major social networks: Facebook, Google+, Twitter, and Pinterest. 
-* Your sweepstakes quickly spreads far and wide to followers and friends of participants. 
-* You can create and publish your sweepstakes in less than 5 minutes using the simple and intuitive wizard. 
-* Social Sweepstakes are incredibly cost effective, try completely free for the first month.
-* You can run unlimited sweepstakes for free for one month. 
+1. Run a Sweepstakes on your Shopify Store and/or Facebook Page that gives away a free item or gift card
+2. Customers enter & share to their Facebook Profile & friend's News Feeds
+
+**Customer Intelligence**
+
+* Collect email addresses for each entrant in your campaigns
+* View a breakdown of the Age, Gender, Location & Facebook Likes for the entrants of each campaign
+
+**MailChimp Integration**
+
+* Schedule an email for each campaign to a MailChimp list in your Wishpond admin
+* Auto-Export entrant emails directly to MailChimp
+
+
+Try Social Campaigns free for 30 days.
+
 
 Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
 
@@ -76,13 +83,14 @@ Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpo
 
 == Screenshots ==
 
-1. Creating a Social Offer within the Wordpress admin panel
-2. Previewing a Social Offer in the Wordpress admin panel
-3. View and manage all of your Social Campaigns within the Wordpress admin panel
-4. A Social Offer live on a Wordpress site
-5. A Social Sweepstakes live on a Wordpress site
-6. A Social Sweepstakes live on a Wordpress site (using the widget functionality to display in the side bar)
-7. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
+1. Campaign Report Page (w/Customer Intelligence)
+2. Creating a Social Offer within the Wordpress admin panel
+3. Previewing a Social Offer in the Wordpress admin panel
+4. View and manage all of your Social Campaigns within the Wordpress admin panel
+5. A Social Offer live on a Wordpress site
+6. A Social Sweepstakes live on a Wordpress site
+7. A Social Sweepstakes live on a Wordpress site (using the widget functionality to display in the side bar)
+8. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
 
 == Changelog ==
 
