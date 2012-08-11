@@ -76,5 +76,4 @@ function wishpond_plugin_redirect() {
     wp_redirect('options-general.php?page='. WISHPOND_ADMIN_OPTIONS);
   }
 }
-
 ?>
