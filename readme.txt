@@ -18,10 +18,10 @@ Easily gather new Customer Intelligence - and new customers - by running Sweepst
 1. Create a store-wide or item discount Offer
 2. Run the Offer on your Website and/or Facebook Page
 3. Customers enter & a post is made to their Facebook Profile - which is distributed to the News Feed of their entire social network
-4. Entrants purchase immediately via PayPal or on your Shopify Store
+4. Entrants purchase immediately via PayPal or on your website
 
 **Social Sweepstakes** 
-1. Run a Sweepstakes on your Shopify Store and/or Facebook Page that gives away a free item or gift card
+1. Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card
 2. Customers enter & share to their Facebook Profile & friend's News Feeds
 
 **Customer Intelligence**
