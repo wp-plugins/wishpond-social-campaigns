@@ -5,7 +5,7 @@
 /*
 Plugin Name: Wishpond Social Campaigns
 Plugin URI: http://corp.wishpond.com/social-campaigns/
-Description: Create your own viral promotional campaigns that spread quickly through social networks.
+Description: Run promotional campaigns on your Wordpress Site. Free 30-day trial.
 Version: 1.0
 Author: Wishpond
 Author URI: http://www.wishpond.com
