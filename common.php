@@ -7,10 +7,11 @@ define('WISHPOND_SITE_URL', 'http://www.wishpond.com');
 define('WISHPOND_ADMIN_MENU', 'wishpond-social-campaigns-menu');
 define('WISHPOND_ADMIN_OPTIONS', 'wishpond-social-campaigns-options');
 
-//Shortcode [wpoffer mid="XX" width="810" height="650"]
+//Shortcode [wpoffer id="YY" mid="XX" width="810" height="650"]
 function wpoffer_func($attrs)
 {
   extract(shortcode_atts(array(
+    'id' => '',
     'mid' => '',
     'width' => '100%',
     'height' => '650'
@@ -19,15 +20,16 @@ function wpoffer_func($attrs)
   if($mid=='')
     return "Missing Social Offer mid";
   else
-    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/sd/".$mid."?container=false'></iframe>";
+    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/sd/".$mid."?container=false&sdid=".$id."&type=Merchant'></iframe>";
 }
 add_shortcode('wpoffer', 'wpoffer_func');
 
 
-//Shortcode [wpsweepstakes mid="XX" width="810" height="650"]
+//Shortcode [wpsweepstakes id="YY" mid="XX" width="810" height="650"]
 function wpsweepstakes_func($attrs)
 {
   extract(shortcode_atts(array(
+    'id' => '',
     'mid' => '',
     'width' => '100%',
     'height' => '650'
@@ -36,7 +38,7 @@ function wpsweepstakes_func($attrs)
   if($mid=='')
     return "Missing Social Sweepstakes mid";
   else
-    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/sw/".$mid."?container=false'></iframe>";
+    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/sw/".$mid."?container=false&swid=".$id."&type=Merchant'></iframe>";
 }
 add_shortcode('wpsweepstakes', 'wpsweepstakes_func');
 
