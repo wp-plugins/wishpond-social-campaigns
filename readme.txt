@@ -92,6 +92,7 @@ Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpo
 
 = 1.1 =
 * Automatic login so that you don't need to manage extra login information. Improved sweepstakes and offers. Better tracking.
+* Now allowing multiple campaigns at the same time.
 
 = 1.0 =
 * The first version. The big bang. Where it all began. 
