@@ -5,7 +5,7 @@
 /*
 Plugin Name: Wishpond Social Campaigns
 Plugin URI: http://corp.wishpond.com/social-campaigns/
-Description: Run promotional campaigns on your Wordpress Site. Free 30-day trial.
+Description: Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Promotions allows you to run Facebook contests such as group deals (offers) and giveaways. Run your own Facebook contest today.
 Version: 1.0
 Author: Wishpond
 Author URI: http://www.wishpond.com
