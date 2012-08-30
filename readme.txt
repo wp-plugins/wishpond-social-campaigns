@@ -1,6 +1,6 @@
-=== Social Campaigns ===
+=== Social Contests ===
 Contributors: atajsekandar 
-Tags: special offers, group deals, promotions, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google, viral, actions
+Tags: special offers, group deals, facebook promotions, facebook promotion, facebook contest, facebook contests, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, page, pages, widgets, wordpress, google, viral, actions
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Easily gather new Customer Intelligence - and new customers - by running Sweepstakes and Offers on your Worpdress site & Facebook Page. Free 30-day trial.
+Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Contests allows you to run Facebook promotions such as group deals (offers) and giveaways. Run your own Facebook contest today and see the power of it.
 
 
 **Social Offers**
