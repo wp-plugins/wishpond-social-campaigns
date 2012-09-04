@@ -3,8 +3,8 @@
  * @package Wishpond
  */
 /*
-Plugin Name: Wishpond Social Campaigns
-Plugin URI: http://corp.wishpond.com/social-campaigns/
+Plugin Name: Wishpond Social Promotions
+Plugin URI: http://corp.wishpond.com/social-promotions
 Description: Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Promotions allows you to run Facebook contests such as group deals (offers) and giveaways. Run your own Facebook contest today.
 Version: 1.0
 Author: Wishpond
@@ -42,8 +42,8 @@ function wishpond_campaigns_page()
 //Admin Tab
 function wishpond_campaigns_menu()
 {
-  add_options_page("Social Campaigns Options", "Social Campaigns", "manage_options", WISHPOND_ADMIN_OPTIONS, "wishpond_campaigns_page");
-  add_menu_page("Social Campaigns Options", "Campaigns", "manage_options", WISHPOND_ADMIN_MENU, "wishpond_campaigns_page","",30);
+  add_options_page("Social Promotions Options", "Social Promotions", "manage_options", WISHPOND_ADMIN_OPTIONS, "wishpond_campaigns_page");
+  add_menu_page("Social Promotions Options", "Promotions", "manage_options", WISHPOND_ADMIN_MENU, "wishpond_campaigns_page","",30);
                                             
 }
 add_action("admin_menu","wishpond_campaigns_menu");
@@ -75,5 +75,14 @@ function wishpond_plugin_redirect() {
     delete_option('wishpond_plugin_do_activation_redirect');
     wp_redirect('options-general.php?page='. WISHPOND_ADMIN_OPTIONS);
   }
+}
+
+//For WP e-commerce
+if (is_admin()) {
+  function wpsc_add_modules_admin_pages($page_hooks, $base_page) {
+  $page_hooks[] = add_submenu_page($base_page, __('Promotions','wpsc'), __('Promotions','wpsc'), 7, 'wishpond-social-campaigns-menu', 'wpsc_display_admin_pages');
+  return $page_hooks;
+}
+add_filter('wpsc_additional_pages', 'wpsc_add_modules_admin_pages',10, 2);
 }
 ?>

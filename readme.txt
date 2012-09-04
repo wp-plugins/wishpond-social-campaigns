@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar 
-Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, widgets, wordpress, google, viral
+Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, plugin, sidebar, shortcode, post, widgets, wordpress, google, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
@@ -34,6 +34,10 @@ Use this plugin to run promotional campaigns on your WordPress site that spread 
 **MailChimp Integration**
 * Schedule an email for each campaign to a MailChimp list in your Wishpond admin
 * Auto-Export entrant emails directly to MailChimp
+
+**WP e-Commerce Integration**
+* If you use WP eCommerce, this integration will work well with it
+* A 'Promotions' menu will be added under 'Products' menu for WP e-Commerce
 
 
 Try Social Campaigns free for 30 days.
