@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar 
-Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, sidebar, shortcode, post, widgets, wordpress, wp, google, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce, word press, mobile, social, multi-channel, cross-channel, cross channel, multi channel, omni channel
+Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, photo contest, photo, picture contest, photo contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, google plus, googleplus, widget, sidebar, shortcode, post, widgets, wordpress, wp, google, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce, word press, mobile, social, multi-channel, cross-channel, cross channel, multi channel, omni channel
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Contests allows you to run Facebook promotions such as group deals (offers) and giveaways. Run your own Facebook contest today and see the power of it.
+Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Contests allows you to run Facebook promotions such as group deals (offers), giveaways, and photo contests. Run your own Facebook contest today and see the power of it.
 
 
 [youtube http://www.youtube.com/watch?v=NnPBCSh0w00]
@@ -26,6 +26,12 @@ Use this plugin to run promotional campaigns on your WordPress site that spread 
 **Social Sweepstakes** 
 1. Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card
 2. Customers enter & share to their Facebook Profile & friend's News Feeds
+
+**Photo Contest**
+1. Your customers upload photos
+2. They vote on their favorite entries
+3. They automatically invite their friends to also participate
+4. You get new customers
 
 **Customer Intelligence**
 * Collect email addresses for each entrant in your campaigns
@@ -43,7 +49,7 @@ Use this plugin to run promotional campaigns on your WordPress site that spread 
 Try Social Campaigns free for 30 days.
 
 
-Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
+Learn more about [Social Offers](http://corp.wishpond.com/retail-marketing-suite/social-offers/ "Wishpond Social Offers"), [Social Sweepstakes](http://corp.wishpond.com/retail-marketing-suite/social-sweepstakes/ "Wishpond Social Sweepstakes") or [Photo Contest](http://corp.wishpond.com/retail-marketing-suite/photo-contests/ "Wishpond Photo Contest"). 
 
 == Installation ==
 
@@ -61,7 +67,7 @@ No. We automatically create a Wishpond account for you.
 
 = How much does it cost to run a campaign? =
 
-Social Sweepstakes and Social Offers are both extremely cost effective. 
+Social Sweepstakes, Social Offers, and Photo Contests are extremely cost effective. 
 
 * You can run unlimited campaigns for free for the first month.
 * Wishpond Social Sweepstakes is free to try for the first month. You can run as many sweepstakes as you want and get as many participants as you like. 
@@ -74,7 +80,7 @@ Yes, you can try Social Campaigns completely free for the first month.
 
 = What is the difference between Social Offers and Social Sweepstakes? =
 
-With Social Campaigns you can create 2 kinds of promotions: Social Offers and Social Sweepstakes. 
+With Social Campaigns you can create 3 kinds of promotions: Social Offers, Social Sweepstakes, and Photo Contests. 
 
 Social Offers lets you create limited-time offers on your goods or services. You get to choose all the parameters of the offer. For example you can set a minimum number of participants required to 'unlock' the deal, making it a group buying promotion. You can choose any good or service (or group of goods and services) to create a Social Offer for. You choose the number of people who can participate, the duration of the promotion, the redemption method and instructions, and of course the size of the discount. 
 
