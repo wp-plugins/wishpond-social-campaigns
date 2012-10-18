@@ -42,4 +42,21 @@ function wpsweepstakes_func($attrs)
 }
 add_shortcode('wpsweepstakes', 'wpsweepstakes_func');
 
+//Shortcode [wpphotocontest id="YY" mid="XX" width="810" height="650"]
+function wpphotocontest_func($attrs)
+{
+  extract(shortcode_atts(array(
+    'id' => '',
+    'mid' => '',
+    'width' => '100%',
+    'height' => '650'
+  ), $attrs));
+  
+  if($mid=='')
+    return "Missing Social Sweepstakes mid";
+  else
+    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/pc/".$mid."?container=false&swid=".$id."&type=Merchant'></iframe>";
+}
+add_shortcode('wpphotocontest', 'wpphotocontest_func');
+
 ?>
