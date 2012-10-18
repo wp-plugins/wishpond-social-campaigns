@@ -55,7 +55,7 @@ function wpphotocontest_func($attrs)
   if($mid=='')
     return "Missing Social Sweepstakes mid";
   else
-    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/pc/".$mid."?container=false&swid=".$id."&type=Merchant'></iframe>";
+    return "<iframe width='".$width."' height='".$height."' frameborder='0' src='".WISHPOND_SITE_URL."/pc/".$mid."?container=false&pcid=".$id."&type=Merchant'></iframe>";
 }
 add_shortcode('wpphotocontest', 'wpphotocontest_func');
 
