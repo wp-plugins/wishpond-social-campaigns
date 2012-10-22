@@ -14,9 +14,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Contests allows you to run Facebook promotions such as group deals (offers), giveaways, and photo contests. Run your own Facebook contest today and see the power of it.
 
 
-[youtube http://www.youtube.com/watch?v=NnPBCSh0w00]
-
-
 **Social Offers**
 1. Create a store-wide or item discount Offer
 2. Run the Offer on your Website and/or Facebook Page
