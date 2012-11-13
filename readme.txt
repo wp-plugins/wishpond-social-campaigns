@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar 
-Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, photo contest, photo, picture contest, photo contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, widget, sidebar, shortcode, post, widgets, wordpress, wp, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce, promo
+Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, photo contest, photo, picture contest, photo contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, widget, sidebar, shortcode, post, widgets, wordpress, wp, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce, promo, vote, vote contest, pinterest contest, pin it, pin, photo caption contest, photo caption, caption
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
@@ -11,8 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Facebook Contests allows you to run Facebook promotions such as group deals (offers), giveaways, and photo contests. Run your own Facebook contest today and see the power of it.
-
+Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Promotions allows you to run contests such as sweepstakes, group deals (offers), photo contests, vote contests, pinterest contests, photo caption contests, etc. Run your own promotions today.
 
 **Social Offers**
 1. Create a store-wide or item discount Offer
