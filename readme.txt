@@ -54,7 +54,6 @@ If you use WP eCommerce, this integration will work well with it. A 'Promotions'
 [Try Social Promotions free for 30 days](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
-Learn more about , [Social Sweepstakes](http://corp.wishpond.com/retail-marketing-suite/social-sweepstakes/ "Wishpond Social Sweepstakes") or . 
 
 == Installation ==
 
