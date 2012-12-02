@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar 
-Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, photo contest, photo, picture contest, photo contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, widget, sidebar, shortcode, post, widgets, wordpress, wp, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce, promo, vote, vote contest, pinterest contest, pin, photo caption contest, photo caption  
+Tags: facebook promotions, facebook promotion, facebook contest, facebook contests, photo contest, photo, picture contest, photo contests, contests, contest, promotion, promotions, special offers, group deals, contest, promotion, daily deal, group deal, facebook campaign, marketing, sweepstakes, advertising, campaigns, facebook, social media, twitter, pinterest, widget, sidebar, shortcode, post, widgets, wordpress, wp, viral, wpec, wp e-commerce, wp ecommerce, ecommerce, e-commerce, promo, vote, vote contest, pinterest contest, pin, photo caption contest, photo caption
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
