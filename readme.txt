@@ -13,15 +13,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Promotions allows you to run contests such as sweepstakes, group deals (offers), photo contests, vote contests, pinterest contests, photo caption contests, etc. Run your own promotions today.
 
+**Social Sweepstakes** 
+1. Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card
+2. Customers enter & share to their Facebook Profile & friend's News Feeds
+
 **Social Offers**
 1. Create a store-wide or item discount Offer
 2. Run the Offer on your Website and/or Facebook Page
 3. Customers enter & a post is made to their Facebook Profile - which is distributed to the News Feed of their entire social network
 4. Entrants purchase immediately via PayPal or on your website
-
-**Social Sweepstakes** 
-1. Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card
-2. Customers enter & share to their Facebook Profile & friend's News Feeds
 
 **Photo Contest**
 1. Your customers upload photos
