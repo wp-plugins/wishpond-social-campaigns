@@ -13,39 +13,42 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Promotions allows you to run contests such as sweepstakes, group deals (offers), photo contests, vote contests, pinterest contests, photo caption contests, etc. Run your own promotions today.
 
-**Social Sweepstakes** 
-1. Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card
-2. Customers enter & share to their Facebook Profile & friend's News Feeds
+Every Social Promotion app collects email addresses and social data such as age, gender and location of every entrant. Every Enter and Vote action taken by users is published to their Facebook Profile with an invitation for friends to join.
 
-**Social Offers**
-1. Create a store-wide or item discount Offer
-2. Run the Offer on your Website and/or Facebook Page
-3. Customers enter & a post is made to their Facebook Profile - which is distributed to the News Feed of their entire social network
-4. Entrants purchase immediately via PayPal or on your website
+**[Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")** 
+Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card. Sweepstakes are an easy way to engage fans of your brand and get new leads with a very low barrier to entry. [Learn More >](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")
 
-**Photo Contest**
-1. Your customers upload photos
-2. They vote on their favorite entries
-3. They automatically invite their friends to also participate
-4. You get new customers
+**[Photo Contest](http://corp.wishpond.com//photo-contest/ "Wishpond Photo Contest")**
+Engage users to upload photos of themselves and invite their friends to vote for them to win. Photo Contests are perfect for getting new user-generated content and having users engage with each other. [Learn More >](http://corp.wishpond.com//photo-contest/ "Wishpond Photo Contest")
 
-**Customer Intelligence**
-* Collect email addresses for each entrant in your campaigns
-* View a breakdown of the Age, Gender, Location & Facebook Likes for the entrants of each campaign
+**[Pinterest Contest](http://corp.wishpond.com/pinterest-contest/ "Pinterest Contest")**
+Engage your community to create boards on Pinterest and vote for their favorites
+Users create a board on Pinterest, where it is shared with other Pinterest users. Then they enter it in your Pinterest Contest (on your Facebook Page or website) where the community can vote on it. Have users create boards of your products to introduce them to their friends and other users on Pinterest and Facebook. [Learn More >](http://corp.wishpond.com/pinterest-contest/ "Pinterest Contest")
+
+**[Vote Contest](http://corp.wishpond.com/vote-contest/ "Vote Contest")**
+Engage your community to vote on their favorite photos/candidates entered by you
+A Vote Contest engages users and teams to go head-to-head to get votes from their friends and family for their choice. It can be used to have users vote on which products should go on sale or will be in your new product line or which team will win a grand prize. [Learn More >](http://corp.wishpond.com/vote-contest/ "Vote Contest")
+
+**[Photo Caption Contest](http://corp.wishpond.com/photo-caption-contest/ "Photo Caption Contest")**
+
+**Video Contest**
+Engage users to upload videos of themselves and invite their friends to vote for them to win. Videos make for a higher barrier to entry, but give you great user-generated content for your brand.
+
+**Essay Contest**
+Engage users to write about an experience they’ve had or how they would use your products and invite their friends to vote for them to win. Essay Contests have a low barrier to entry and propel users to get creative and give you great, quotable content. 
+
+**[Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers")**
+Create a store-wide or item discount coupon or a group-buy offer. Social Offers is integrated directly with PayPal for automated payment. Use custom coupon codes for unique coupon redemption. [Learn More >](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers")
 
 **MailChimp Integration**
-* Schedule an email for each campaign to a MailChimp list in your Wishpond admin
-* Auto-Export entrant emails directly to MailChimp
+Schedule an email for each campaign to a MailChimp list in your Wishpond admin. Auto-Export entrant emails directly to MailChimp
 
 **WP e-Commerce Integration**
-* If you use WP eCommerce, this integration will work well with it
-* A 'Promotions' menu will be added under 'Products' menu for WP e-Commerce
+If you use WP eCommerce, this integration will work well with it. A 'Promotions' menu will be added under 'Products' menu for WP e-Commerce
 
 
-Try Social Campaigns free for 30 days.
+[Try Social Promotions free for 30 days](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
-
-Learn more about [Social Offers](http://corp.wishpond.com/retail-marketing-suite/social-offers/ "Wishpond Social Offers"), [Social Sweepstakes](http://corp.wishpond.com/retail-marketing-suite/social-sweepstakes/ "Wishpond Social Sweepstakes") or [Photo Contest](http://corp.wishpond.com/retail-marketing-suite/photo-contests/ "Wishpond Photo Contest"). 
 
 == Installation ==
 
@@ -63,28 +66,18 @@ No. We automatically create a Wishpond account for you.
 
 = How much does it cost to run a campaign? =
 
-Social Sweepstakes, Social Offers, and Photo Contests are extremely cost effective. 
-
-* You can run unlimited campaigns for free for the first month.
-* Wishpond Social Sweepstakes is free to try for the first month. You can run as many sweepstakes as you want and get as many participants as you like. 
-* Wishpond Social Offers is also free to try for the first month.
-
+* Running campaigns are extremely cost effective. 
+* You can run unlimited campaigns for FREE for the first month.
+* You can learn more about our pricing [here](http://corp.wishpond.com/pricing-plans/ "Pricing")
 
 = Can I try out Social Campaigns free? =
 
 Yes, you can try Social Campaigns completely free for the first month. 
 
-= What is the difference between Social Offers and Social Sweepstakes? =
+= What kind of support do I get? =
 
-With Social Campaigns you can create 3 kinds of promotions: Social Offers, Social Sweepstakes, and Photo Contests. 
+Wishpond campaigns are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support. 
 
-Social Offers lets you create limited-time offers on your goods or services. You get to choose all the parameters of the offer. For example you can set a minimum number of participants required to 'unlock' the deal, making it a group buying promotion. You can choose any good or service (or group of goods and services) to create a Social Offer for. You choose the number of people who can participate, the duration of the promotion, the redemption method and instructions, and of course the size of the discount. 
-
-Social Sweepstakes is used to run giveaways which people are required to enter to win. Again, all the parameters of the Social Sweepstakes are up to you. You choose what you want to give away, and how long the Social Sweepstakes will run for. 
-
-Both Social Offers and Social Sweepstakes spread through the major social networks as people participate. That's why we call them social! 
-
-Learn more about [Social Offers](http://corp.wishpond.com/social-offers/ "Wishpond Social Offers") or [Social Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Wishpond Social Sweepstakes"). 
 
 == Screenshots ==
 
