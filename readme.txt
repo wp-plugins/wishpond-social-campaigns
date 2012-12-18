@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar 
-Tags: facebook, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, twitter, pinterest, ecommerce 
+Tags: facebook, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, twitter, pinterest, commerce 
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
