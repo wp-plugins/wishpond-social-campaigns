@@ -47,7 +47,7 @@ Schedule an email for each campaign to a MailChimp list in your Wishpond admin. 
 If you use WP eCommerce, this integration will work well with it. A 'Promotions' menu will be added under 'Products' menu for WP e-Commerce
 
 
-[Try Social Promotions free for 30 days](https://www.wishpond.com/central/merchant_signups/new "Signup")
+[Try Social Promotions free for 7 days](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
 == Installation ==
@@ -67,12 +67,12 @@ No. We automatically create a Wishpond account for you.
 = How much does it cost to run a campaign? =
 
 * Running campaigns are extremely cost effective. 
-* You can run unlimited campaigns for FREE for the first month.
+* You can run unlimited campaigns for FREE for the first 7 days
 * You can learn more about our pricing [here](http://corp.wishpond.com/pricing-plans/ "Pricing")
 
 = Can I try out Social Campaigns free? =
 
-Yes, you can try Social Campaigns completely free for the first month. 
+Yes, you can try Social Campaigns completely free for the first 7 days. 
 
 = What kind of support do I get? =
 
