@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar 
-Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, twitter, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals
+Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, twitter, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest,  Video Contest
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Create Social Contests & Promotions on your Wordpress site that spread through Facebook and Twitter. Run Sweepstakes, Photo Contests and more with one easy plugin. 
+Create Social Contests & Promotions on your Wordpress site that spread through Facebook and Twitter. Run Sweepstakes, Photo Contests, Pinterest Contest, Vote Contest, Group Deals, Photo Caption Contest, and Youtube Video Contest and more with one easy plugin. 
 
 
 [Start your 14-day free trial.](https://www.wishpond.com/central/merchant_signups/new "Signup")
@@ -74,6 +74,8 @@ Create a store-wide or item discount coupon or a group-buy offer. Social Offers 
 
 **Real-Time Tracking:** Track campaign metrics in real-time.
 
+**Multiple Ways to Enter:** Users can enter using Their Twitter account, Facebook, or Email only.
+
 **Auto-Sharing by Entrants:** Entrant’s auto-share an invite with their friends on their Facebook Wall or Twitter Profile and in friends’ News Feeds. 
 
 **Satisfy Facebook Policies:** Each App is built within all requirements in Facebook’s Promotions Guidelines. 
@@ -122,7 +124,7 @@ No. We automatically create a Wishpond account for you.
 = How much does it cost to run a campaign? =
 
 * Running campaigns are extremely cost effective. 
-* You can run unlimited campaigns for FREE for the first 14 days
+* You can run unlimited campaigns for FREE for the first 14 days, should you decide not to stay with us, you can cancel your account at any point.
 * You can learn more about our pricing [here](http://corp.wishpond.com/pricing-plans/ "Pricing")
 
 = Can I try out Social Campaigns free? =
