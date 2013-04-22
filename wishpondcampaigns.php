@@ -13,6 +13,8 @@ Author URI: http://www.wishpond.com
 
 include_once dirname( __FILE__ ) . '/social_discount_widget.php';
 include_once dirname( __FILE__ ) . '/sweepstakes_widget.php';
+include_once dirname( __FILE__ ) . '/photo_contest.php';
+include_once dirname( __FILE__ ) . '/vote_contest.php';
 include_once dirname( __FILE__ ) . '/common.php';
 
 /**************
@@ -31,7 +33,8 @@ function wishpond_campaigns_page()
     </script>
     <?php 
     $current_user = wp_get_current_user();
-    $signup_url = WISHPOND_SITE_URL . "/central/merchant_signups/new?type=wp_campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&email=" . $current_user->user_email . "&key=" . urlencode(php_uname("n") . site_url()) . "&redirect_to=" . WISHPOND_SITE_URL . "/central/social_campaigns";?>
+   /* $signup_url = WISHPOND_SITE_URL . "/central/merchant_signups/new?type=wp_campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&email=" . $current_user->user_email . "&key=" . urlencode(php_uname("n") . site_url()) . "&redirect_to=" . WISHPOND_SITE_URL . "/central/social_campaigns";?>*/
+    $signup_url = WISHPOND_SITE_URL . "/central/merchant_signups/new?type=wp_campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&email=jordan23323@wishpond.com&key=" . urlencode(php_uname("n") . site_url()) . "&redirect_to=" . WISHPOND_SITE_URL . "/central/social_campaigns";?>
     <iframe src="<?php echo $signup_url ?>" width="100%" height="2000" frameBorder="0" onload="scrollToTop()">
     </iframe>
   </div>
