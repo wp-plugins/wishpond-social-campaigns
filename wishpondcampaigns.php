@@ -13,8 +13,6 @@ Author URI: http://www.wishpond.com
 
 include_once dirname( __FILE__ ) . '/social_discount_widget.php';
 include_once dirname( __FILE__ ) . '/sweepstakes_widget.php';
-include_once dirname( __FILE__ ) . '/photo_contest.php';
-include_once dirname( __FILE__ ) . '/vote_contest.php';
 include_once dirname( __FILE__ ) . '/common.php';
 
 /**************
