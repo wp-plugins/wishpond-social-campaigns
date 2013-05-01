@@ -73,6 +73,7 @@ Create a store-wide or item discount coupon or a group-buy offer. Social Offers 
 
 
 **All Feautures**
+
 - Mobile-Compatible: We provide a link to share that directs users to optimized entry pages for both desktop and mobile users. 
 - App for Facebook Pages: Each App is built to run in a tab on your Facebook Page. Users enter and share directly on your Facebook Page. 
 - App for Twitter Profile Pages: Each App is built to run from your Twitter Profile Page. Users enter and share directly via Twitter. 
