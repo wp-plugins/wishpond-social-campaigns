@@ -1,13 +1,13 @@
 === Social Contests ===
-Contributors: atajsekandar 
-Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, twitter, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deal, photo contest, Video Contest  
+Contributors: atajsekandar
+Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, twitter, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
- 
+
 
 == Description ==
 
@@ -45,7 +45,7 @@ In minutes you can have multiple contests scheduled with automated follow-up ema
 **Our Social Contests Plugin includes 8 Contest Apps:**
 
 
-**[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")** 
+**[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")**
 Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card. Sweepstakes are an easy way to engage fans of your brand and get new leads with a very low barrier to entry.
 
 **[Photo Contest](http://corp.wishpond.com//photo-contest/ "Wishpond Photo Contest")**
@@ -66,29 +66,29 @@ Use Wishpond’s Photo Caption Contest App to entice users to share and vote on 
 Engage users to upload videos of themselves and invite their friends to vote for them to win. Videos make for a higher barrier to entry, but give you great user-generated content for your brand.
 
 **[Essay Contest](http://corp.wishpond.com/essay-contest/ "Essay Contest")**
-Engage users to write about an experience they’ve had or how they would use your products and invite their friends to vote for them to win. Essay Contests have a low barrier to entry and propel users to get creative and give you great, quotable content. 
+Engage users to write about an experience they’ve had or how they would use your products and invite their friends to vote for them to win. Essay Contests have a low barrier to entry and propel users to get creative and give you great, quotable content.
 
 **[Group Offers](http://corp.wishpond.com/social-offers/ "Group Offers")**
 Create a store-wide or item discount coupon or a group-buy offer. Social Offers is integrated directly with PayPal for automated payment. Use custom coupon codes for unique coupon redemption.
 
 
 **All Feautures**
-- Mobile-Compatible: We provide a link to share that directs users to optimized entry pages for both desktop and mobile users. 
-- App for Facebook Pages: Each App is built to run in a tab on your Facebook Page. Users enter and share directly on your Facebook Page. 
-- App for Twitter Profile Pages: Each App is built to run from your Twitter Profile Page. Users enter and share directly via Twitter. 
+- Mobile-Compatible: We provide a link to share that directs users to optimized entry pages for both desktop and mobile users.
+- App for Facebook Pages: Each App is built to run in a tab on your Facebook Page. Users enter and share directly on your Facebook Page.
+- App for Twitter Profile Pages: Each App is built to run from your Twitter Profile Page. Users enter and share directly via Twitter.
 - Embed on Wordpress Sites: Each app can also be embedded into your Wordpress website
-- Collect Email Addresses: Download all entrants’ email addresses. You own them. We never email your entrants. 
-- Collect Entrants’ Data: Download entrants’ name, age, gender, location & Likes automatically via our integration with Facebook’s Opengraph. 
+- Collect Email Addresses: Download all entrants’ email addresses. You own them. We never email your entrants.
+- Collect Entrants’ Data: Download entrants’ name, age, gender, location & Likes automatically via our integration with Facebook’s Opengraph.
 - Real-Time Tracking: Track campaign metrics in real-time.
 - Multiple Ways to Enter: Users can enter using Their Twitter account, Facebook, or Email only.
-- Auto-Sharing by Entrants: Entrant’s auto-share an invite with their friends on their Facebook Wall or Twitter Profile and in friends’ News Feeds. 
-- Satisfy Facebook Policies: Each App is built within all requirements in Facebook’s Promotions Guidelines. 
+- Auto-Sharing by Entrants: Entrant’s auto-share an invite with their friends on their Facebook Wall or Twitter Profile and in friends’ News Feeds.
+- Satisfy Facebook Policies: Each App is built within all requirements in Facebook’s Promotions Guidelines.
 - Built-in Voting: Each app has built-in voting buttons and counters to maximize sharing and engagement.
-- Custom Form Fields: Need to collect more info from entrants than email address? Add any fields you like and download in an excel file. 
-- Customizable CSS: Change every aspect of each app’s CSS stylesheet to fit your brand. 
+- Custom Form Fields: Need to collect more info from entrants than email address? Add any fields you like and download in an excel file.
+- Customizable CSS: Change every aspect of each app’s CSS stylesheet to fit your brand.
 - Translated in 35 Languages: Each app has been translated into 35 languages, including all user-facing text and share messages.
-- Like-Gate Option: You can require that users “Like” your Facebook Page before they can enter your contest. 
-- Custom Header Banner: Upload a custom banner image to fit your brand. 
+- Like-Gate Option: You can require that users “Like” your Facebook Page before they can enter your contest.
+- Custom Header Banner: Upload a custom banner image to fit your brand.
 - Choose Multiple Winners: Each app is built to allow you to have one or multiple winners of your photo contest.
 - WP e-Commerce Integration: If you use WP eCommerce, this integration will work well with it. A 'Promotions' menu will be added under 'Products' menu for WP e-Commerce
 
@@ -128,13 +128,13 @@ Email us at support@wishpond.com
 1. Upload `wishpond-social-campaigns` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. You will be automatically redirected to the newly created 'Campaigns' menu within WordPress.
-1. From here click 'Create' and you will be able to choose to create your first Social Sweepstakes or Social Offer. 
+1. From here click 'Create' and you will be able to choose to create your first Social Sweepstakes or Social Offer.
 
 == Frequently Asked Questions ==
 
 = Do I need to have a Wishpond account set up already? =
 
-No. We automatically create a Wishpond account for you. 
+No. We automatically create a Wishpond account for you.
 
 = How much does this plugin cost? =
 
@@ -142,7 +142,7 @@ Pricing Plans start at $19/month. [View full pricing details here >](http://corp
 
 = Can I try out Social Campaigns free? =
 
-Yes, you can try Social Campaigns completely free for the first 14 days. 
+Yes, you can try Social Campaigns completely free for the first 14 days.
 
 = How does the 14-day free trial work? =
 
@@ -171,7 +171,7 @@ Here are our [Terms of Service](http://corp.wishpond.com/terms-conditions/ "Term
 
 = What kind of support do I get? =
 
-We are always available to you through live chat, email, and phone support. 
+We are always available to you through live chat, email, and phone support.
 
 
 == Screenshots ==
@@ -192,5 +192,5 @@ We are always available to you through live chat, email, and phone support.
 * Now allowing multiple campaigns at the same time.
 
 = 1.0 =
-* The first version. The big bang. Where it all began. 
+* The first version. The big bang. Where it all began.
 
