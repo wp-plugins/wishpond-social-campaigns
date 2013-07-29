@@ -1,9 +1,9 @@
 === Social Contests ===
-Contributors: atajsekandar
+Contributors: atajsekandar, Morgan Grubb
 Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest, widget, plugin, sidebar, side bar
 Requires at least: 2.0.2
-Tested up to: 3.4.1
-Stable tag: 1.1
+Tested up to: 3.5.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -118,7 +118,7 @@ Owner
 
 [View Customer Examples >](http://corp.wishpond.com/social-media-marketing-campaign-examples/ "Customer Examples")
 
-[Learn More >](https://corp.wishpond.com "Wishpond)
+[Learn More >](https://corp.wishpond.com "Wishpond")
 
 Email us at support@wishpond.com
 
@@ -162,7 +162,7 @@ We currently accept Visa, Mastercard, Amex and Discover through our online payme
 
 = How reliable is your service? =
 
-Wishpond hosts all of your data on Amazon EC2 and we do regular (hourly) backups of all your data.
+Wishpond hosts all of your data on Amazon EC2 and we do regular backups of all your data.
 
 = Where can I review the terms of service and privacy policy? =
 
@@ -186,6 +186,11 @@ We are always available to you through live chat, email, and phone support.
 8. A Social Offer live on a Wordpress site (using the widget functionality to display in the side bar)
 
 == Changelog ==
+
+= 1.2 =
+* Shortcodes reduced to a single wpsc (old ones maintained for compatibility).
+* Automatic iframe resizing based on content.
+* More configuration options for the iframe.
 
 = 1.1 =
 * Automatic login so that you don't need to manage extra login information. Improved sweepstakes and offers. Better tracking.

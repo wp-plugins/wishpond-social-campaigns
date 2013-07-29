@@ -6,13 +6,12 @@
 Plugin Name: Wishpond Social Promotions
 Plugin URI: http://corp.wishpond.com/social-promotions
 Description: Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Promotions allows you to run contests such as sweepstakes, group deals (offers), photo contests, vote contests, pinterest contests, photo caption contests, etc. Run your own promotions today.
-Version: 1.0
+Version: 1.2
 Author: Wishpond
 Author URI: http://www.wishpond.com
 */
 
-include_once dirname( __FILE__ ) . '/social_discount_widget.php';
-include_once dirname( __FILE__ ) . '/sweepstakes_widget.php';
+include_once dirname( __FILE__ ) . '/social_campaign_widget.php';
 include_once dirname( __FILE__ ) . '/common.php';
 
 /**************
@@ -24,15 +23,14 @@ function wishpond_campaigns_page()
 {
   ob_start();?>
   <div class="wrap">
-    <script language="javascript"> 
-      function scrollToTop() { 
-        scroll(0,0); 
-      } 
+    <script language="javascript">
+      function scrollToTop() {
+        scroll(0,0);
+      }
     </script>
-    <?php 
+    <?php
     $current_user = wp_get_current_user();
     $signup_url = WISHPOND_SITE_URL . "/central/merchant_signups/new?type=wp_campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&email=" . $current_user->user_email . "&key=" . urlencode(php_uname("n") . site_url()) . "&redirect_to=" . WISHPOND_SITE_URL . "/central/social_campaigns"
-   /* $signup_url = WISHPOND_SITE_URL . "/central/merchant_signups/new?type=wp_campaigns&plain=true&referral=wordpress&autologin=true&utm_campaign=campaigns&utm_source=integration&utm_medium=wordpress&email=jordan23323@wishpond.com&key=" . urlencode(php_uname("n") . site_url()) . "&redirect_to=" . WISHPOND_SITE_URL . "/central/social_campaigns";?> */
 ?>
     <iframe src="<?php echo $signup_url ?>" width="100%" height="2000" frameBorder="0" onload="scrollToTop()">
     </iframe>
@@ -46,7 +44,7 @@ function wishpond_campaigns_menu()
 {
   add_options_page("Social Promotions Options", "Social Promotions", "manage_options", WISHPOND_ADMIN_OPTIONS, "wishpond_campaigns_page");
   add_menu_page("Social Promotions Options", "Promotions", "manage_options", WISHPOND_ADMIN_MENU, "wishpond_campaigns_page","",30);
-                                            
+
 }
 add_action("admin_menu","wishpond_campaigns_menu");
 
