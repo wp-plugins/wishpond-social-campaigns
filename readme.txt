@@ -3,7 +3,7 @@ Contributors: atajsekandar
 Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest, widget, plugin, sidebar, referral, bonus
 Requires at least: 2.0.2
 Tested up to: 3.4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
