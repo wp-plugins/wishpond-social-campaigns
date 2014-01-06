@@ -1,72 +1,36 @@
-=== Facebook Ads Tool ===
-Contributors: atajsekandar 
-Tags: facebook ads, Facebook advertising, Facebook marketing, ads, social ads, Facebook campaigns, facebook, social, promotion, advertising, online, marketing
-Donate Link: N/A
-Requires at least: 3.0.0
-Tested up to: 3.7
-Stable tag: 1.1
+=== Social Contests ===
+Contributors: atajsekandar
+Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest, widget, plugin, sidebar, referral, bonus
+Requires at least: 2.0.2
+Tested up to: 3.4.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
+
 == Description ==
 
-The plugin that makes it easy to create Ads on Facebook that drive new customers. Promote pages on your website directly from your Wordpress admin.
+Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin.
 
 
-[Sign up. It's free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
+[Start your 14-day free trial.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
-**Why use Wishpond’s Facebook Ads plugin?**
+**Why use Wishpond’s Wordpress Plugin?**
 
-- Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
-
-- Drive Repeat Customers: Upload your customer email or phone list and our tool will show them your Facebook Ad.
-
-- Find New Customers: Advertise to people with similar tastes & interests as your current customers.
-
-
-**Let Wishpond’s Ad Buddy system Optimize your Target Audience.**
-
-- Let our Ad Buddy system choose the best audience for your Ad based on your business.
-
-- Self-Optimizing Ads see who is clicking & converting to optimize your audience and Ad Spend over time.
-
-- Advanced Targeting Options are available to choose your perfect target audience on your own.
+- Collect email addresses and new “Likes” and “Followers”
+- Create your first campaign in minutes.
+- Run Contests and Promotions on your Wordpress site, Facebook Page, Twitter Profile Page and on Mobile
+- Built-in Facebook and Twitter sharing on every contest entry and vote drives sharing and traffic back to your Wordpress site
+- Promote your contests & Wordpress site using Wishpond's Facebook Ads Tool, including our Ad Buddy system, which selects your target audience for you, based on your business.
+- Send email marketing automation campaigns to contest & promotion participants to turn them into customers
 
 
-**Target your Contact List on Facebook.**
-
-- Target specific people on Facebook based on their email address and phone number.
-
-- Target people similar to your customer list. Facebook identifies the similar traits among people on your contact list and targets other people with those traits.
-
-- Import contacts from your email service or CRM including Salesforce and Mailchimp to target.
+**Contest & Promotion Apps Included in Wishpond’s Wordpress Plugin:**
 
 
-**Create a Facebook Ad in minutes using our simple Ad Creator.** 
-
-- Made for First-Time Users. We make it easy to build an Ad, even if it’s your first time. 
-- Built in Conversion Tracking on all Wishpond contests makes it easy to see your Ad’s conversion rate and return on investment. 
-- Get help from the experts. Wishpond’s Ad team is standing by to help you create the best Ad for your business.
-
-
-**Track Performance with Real-Time Reporting.**
-
-- Track your Ad Conversion Funnel from Ad Views all the way to Conversions to understand exactly how your Ads are performing.
-
-- Combat Facebook Ad Fatigue by analyzing your click-through rate over time.
-
-- Compare multiple Ad variations to see which are giving you the best return on investment.
-
-
-[Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
-
-
-**Contest & Promotion Apps Included in  Wordpress Plugin:**
-
-
-**[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")** 
+**[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")**
 Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card. Sweepstakes are an easy way to engage fans of your brand and get new leads with a very low barrier to entry.
 
 **[Photo Contest](http://corp.wishpond.com//photo-contest/ "Wishpond Photo Contest")**
@@ -93,10 +57,10 @@ Use Wishpond’s Photo Caption Contest App to entice users to share and vote on 
 Engage users to upload videos of themselves and invite their friends to vote for them to win. Videos make for a higher barrier to entry, but give you great user-generated content for your brand.
 
 **[Essay Contest](http://corp.wishpond.com/essay-contest/ "Essay Contest")**
-Engage users to write about an experience they’ve had or how they would use your products and invite their friends to vote for them to win. Essay Contests have a low barrier to entry and propel users to get creative and give you great, quotable content. 
+Engage users to write about an experience they’ve had or how they would use your products and invite their friends to vote for them to win. Essay Contests have a low barrier to entry and propel users to get creative and give you great, quotable content.
 
 **[Music Contest](http://corp.wishpond.com/music-contest/ "Music Contest")**
-Engage users to submit a recording from SoundCloud or their computer and invite their friends to vote for them to win. 
+Engage users to submit a recording from SoundCloud or their computer and invite their friends to vote for them to win.
 
 **[Facebook Coupons](http://corp.wishpond.com/coupon-app/ "Facebook Coupons")**
 Run and promote coupons on Facebook Pages, Twitter, your Wordpress site & mobile devices. You can even use customer coupon codes for coupon redemption on your Wordpress site.
@@ -105,7 +69,16 @@ Run and promote coupons on Facebook Pages, Twitter, your Wordpress site & mobile
 Create a store-wide or item discount coupon or a group-buy offer. Social Offers is integrated directly with PayPal for automated payment. Use custom coupon codes for unique coupon redemption.
 
 
-[Sign up. It's free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
+
+**Facebook Ads Tool Included in Wishpond’s Wordpress Plugin:**
+Create Facebook Ads to promote your contests, promotions and Wordpress site, directly from the plugin in your Wordpress admin.
+
+
+- Hands-Free Targeting: Let our Ad Buddy system select the best target audience for your business.
+
+- Drive Repeat Customers: Upload your customer email or phone list and our tool will show them your Facebook Ad.
+
+- Find New Customers: Advertise to people with similar tastes & interests as your current customers.
 
 
 **Email Marketing Automation Tool Included in Wishpond’s Wordpress Plugin:**
@@ -119,90 +92,106 @@ The tool that makes it easy to send an automated series of highly targeted, pers
 - Personalize: Personalize content in each email based on contact details & form field responses.
 
 
-[Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
+[Start your 14-day free trial.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
-**Highlighted Features Included with Each Contest & Promotion App**
+**Highlighted Features Included with Each App**
 
-**Mobile-Compatible:** We provide a link to share that directs users to optimized entry pages for both desktop and mobile users. 
+**Mobile-Compatible:** We provide a link to share that directs users to optimized entry pages for both desktop and mobile users.
 
-**App for Facebook Pages:** Each App is built to run in a tab on your Facebook Page. Users enter and share directly on your Facebook Page. 
+**App for Facebook Pages:** Each App is built to run in a tab on your Facebook Page. Users enter and share directly on your Facebook Page.
 
-**App for Twitter Profile Pages:** Each App is built to run from your Twitter Profile Page. Users enter and share directly via Twitter. 
+**App for Twitter Profile Pages:** Each App is built to run from your Twitter Profile Page. Users enter and share directly via Twitter.
 
 **Embed on Websites:** Each app can also be embedded into your Wordpress website
 
-**Collect Email Addresses:** Download all entrants’ email addresses. You own them. We never email your entrants. 
+**Collect Email Addresses:** Download all entrants’ email addresses. You own them. We never email your entrants.
 
-**Collect Entrants’ Data:** Download entrants’ name, age, gender, location & Likes automatically via our integration with Facebook’s Opengraph. 
+**Collect Entrants’ Data:** Download entrants’ name, age, gender, location & Likes automatically via our integration with Facebook’s Opengraph.
 
 **Real-Time Tracking:** Track campaign metrics in real-time.
 
-**Auto-Sharing by Entrants:** Entrant’s auto-share an invite with their friends on their Facebook Wall or Twitter Profile and in friends’ News Feeds. 
+**Auto-Sharing by Entrants:** Entrant’s auto-share an invite with their friends on their Facebook Wall or Twitter Profile and in friends’ News Feeds.
 
-**Satisfy Facebook Policies:** Each App is built within all requirements in Facebook’s Promotions Guidelines. 
+**Satisfy Facebook Policies:** Each App is built within all requirements in Facebook’s Promotions Guidelines.
 
 **Built-in Voting:** Each app has built-in voting buttons and counters to maximize sharing and engagement.
 
 
-[Sign up. It's Free.](https://www.wishpond.com/central/merchant_signups/new "Signup")
+[Start your 14-day free trial.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
-**Customization Included with Each Contest & Promotion App**
+**Customization Included with Each App**
 
-**Custom Form Fields:** Need to collect more info from entrants than email address? Add any fields you like and download in an excel file. 
+**Custom Form Fields:** Need to collect more info from entrants than email address? Add any fields you like and download in an excel file.
 
-**Customizable CSS:** Change every aspect of each app’s CSS stylesheet to fit your brand. 
+**Customizable CSS:** Change every aspect of each app’s CSS stylesheet to fit your brand.
 
 **Translated in 35 Languages:** Each app has been translated into 35 languages, including all user-facing text and share messages.
 
-**Like-Gate Option:** You can require that users “Like” your Facebook Page before they can enter your contest. 
+**Like-Gate Option:** You can require that users “Like” your Facebook Page before they can enter your contest.
 
-**Custom Header Banner:** Upload a custom banner image to fit your brand. 
+**Custom Header Banner:** Upload a custom banner image to fit your brand.
 
 **Choose Multiple Winners:** Each app is built to allow you to have one or multiple winners of your photo contest.
+
+**WP e-Commerce Integration**
+If you use WP eCommerce, this integration will work well with it. A 'Promotions' menu will be added under 'Products' menu for WP e-Commerce
+
+
+[Start your 14-day free trial.](https://www.wishpond.com/central/merchant_signups/new "Signup")
 
 
 == Installation ==
 
-1. Download and unzip the Facebook Ads Tool plugin.
-2. Upload `wishpond-social-campaigns` folder to the `/wp-content/plugins/` directory.
-3. Activate the plugin through the 'Plugins' menu in WordPress.
-4. You will now have a new Facebook Ads link in your admin menu, and a new set of widgets on all pages and posts that let you create facebook ads directly from pages or a posts
-5. From there click 'Create' and you will be able to choose to create your first Facebook Ad. 
+1. Download and unzip the Social Campaigns plugin.
+1. Upload `wishpond-social-campaigns` folder to the `/wp-content/plugins/` directory.
+1. Activate the plugin through the 'Plugins' menu in WordPress.
+1. You will be automatically redirected to the newly created 'Campaigns' menu within WordPress.
+1. From here click 'Create' and you will be able to choose to create your first Social Sweepstakes or Social Offer.
 
 == Frequently Asked Questions ==
 
 = Do I need to have a Wishpond account set up already? =
 
-No. We automatically create a Wishpond account for you using the wordpress administrator e-mail. You can then change your e-mail and password at any time.
+No. We automatically create a Wishpond account for you.
 
-= How much does it cost to run an Ad? =
+= How much does it cost to run a campaign? =
 
-You only pay when people click on your Ads.
+* Running campaigns are extremely cost effective.
+* You can run unlimited campaigns for FREE for the first 14 days
+* You can learn more about our pricing [here](http://corp.wishpond.com/pricing-plans/ "Pricing")
+
+= Can I try out Social Campaigns free? =
+
+Yes, you can try Social Campaigns completely free for the first 14 days.
 
 = What kind of support do I get? =
 
-Using Wishpond, Facebook Ads are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
+Wishpond campaigns are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
+
 
 == Screenshots ==
 
-1. Creating a Facebook Ad in your Wordpress Admin (Part 1)
-2. Creating a Facebook Ad in your Wordpress Admin (Part 2)
-3. Creating a Facebook Ad directly from a Wordpress page
-4. Your Ad on Facebook
-5. Live Social Contests & Promotions
-6. Creating a Sweepstakes in your Wordpress Admin
-7. Email Automation Campaigns
-8. Contact Database
-9. Campaign Analytics
-
+1. Live Social Contests & Promotions
+2. Creating a Sweepstakes using the plugin in your Wordpress Admin
+3. Creating a Facebook Ad using the plugin in your Wordpress Admin (Part 1)
+4. Creating a Facebook Ad using the plugin in your Wordpress Admin (Part 2)
+5. Your Ad on Facebook
+6. Email Automation Campaigns
+7. Contact Database
+8. Campaign Analytics
 
 
 == Changelog ==
 
+= 1.2 =
+* Bug fixes so contests can be properly embedded in wordpress websites again
+
 = 1.1 =
-* Automatic signup so that you don't need to manage extra signup information. Improved sweepstakes and offers. Better tracking.
+* Automatic login so that you don't need to manage extra login information. Improved sweepstakes and offers. Better tracking.
+* Now allowing multiple campaigns at the same time.
 
 = 1.0 =
-* The first version. The big bang. Where it all began. 
+* The first version. The big bang. Where it all began.
+
