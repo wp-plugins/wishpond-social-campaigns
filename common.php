@@ -3,9 +3,18 @@
  * @package Wishpond
  */
 
-define('WISHPOND_SITE_URL', 'http://www.wishpond.com');
-define('WISHPOND_ADMIN_MENU', 'wishpond-social-campaigns-menu');
-define('WISHPOND_ADMIN_OPTIONS', 'wishpond-social-campaigns-options');
+if ( ! defined( 'WISHPOND_SITE_URL' ) )
+{
+  define('WISHPOND_SITE_URL', 'https://www.wishpond.com');
+}
+if ( ! defined( 'WISHPOND_ADMIN_MENU' ) )
+{
+  define('WISHPOND_ADMIN_MENU', 'wishpond-social-campaigns-menu');
+}
+if ( ! defined( 'WISHPOND_ADMIN_OPTIONS' ) )
+{
+  define('WISHPOND_ADMIN_OPTIONS', 'wishpond-social-campaigns-options');
+}
 
 function wpsc_func($attrs) {
   extract(shortcode_atts(array(
