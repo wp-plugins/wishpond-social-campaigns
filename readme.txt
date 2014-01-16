@@ -185,6 +185,10 @@ Wishpond campaigns are extremely easy and fast to set up. If you ever need assis
 
 == Changelog ==
 
+= 1.3 =
+* Ensured all transactions are secure
+* Enforced compatibility between this plugin and other wishpond plugings.
+
 = 1.2 =
 * Bug fixes so contests can be properly embedded in wordpress websites again
 
