@@ -3,7 +3,7 @@ Contributors: atajsekandar
 Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest, widget, plugin, sidebar, referral, bonus
 Requires at least: 2.0.2
 Tested up to: 3.4.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -184,6 +184,10 @@ Wishpond campaigns are extremely easy and fast to set up. If you ever need assis
 
 
 == Changelog ==
+
+= 1.3 =
+* Ensured all transactions are secure
+* Enforced compatibility between this plugin and other wishpond plugings.
 
 = 1.2 =
 * Bug fixes so contests can be properly embedded in wordpress websites again
