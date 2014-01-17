@@ -1,5 +1,5 @@
 === Social Contests ===
-Contributors: atajsekandar
+Contributors: atajsekandar, cosminatanasiu
 Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest, widget, plugin, sidebar, referral, bonus
 Requires at least: 2.0.2
 Tested up to: 3.4.1
@@ -8,8 +8,9 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-
 == Description ==
+
+> Run Social Contests & Promotions on your Wordpress site & Facebook Page. This plugin works great with the [Facebook Ads](http://wordpress.org/plugins/wishpond-social-campaigns/ "Create Facebook Ads for your wordpress with one button") plugin to get more leads and improved conversion rates on your site.
 
 Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin.
 
