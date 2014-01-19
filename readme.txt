@@ -16,11 +16,11 @@ Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Swe
 
 This plugin lets you have access to the Wishpond Social Contests right from your wordpress admin.
 
-**Pricing & Free Trial**
-
-Pricing starts at $19/month, and a 14-day free trial is available so you can test this plugin out for free, for 14 days. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
+**Free Trial & Pricing**
 
 [Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews") 
+
+A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 Some of our experienced customers boast **over a few thousand leads** for this price, which is unparalleled value for your money.
 
