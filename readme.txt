@@ -161,7 +161,7 @@ If you use WP eCommerce, this integration will work well with it. A 'Promotions'
 
 = Do I need to have a Wishpond account set up already? =
 
-No. We automatically create a Wishpond account for you.
+No. We automatically create a Wishpond account for you using your site administrator e-mail.
 
 = How much does it cost to run a campaign? =
 
