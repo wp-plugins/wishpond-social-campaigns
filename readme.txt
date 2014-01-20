@@ -173,6 +173,14 @@ No. We automatically create a Wishpond account for you.
 
 Yes, you can try Social Campaigns completely free for the first 14 days.
 
+= Is the 14-day free trial shared with the other Wishpond plugins? =
+
+Yes and no. When you sign up for a free trial with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugin or with our [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugin, the trial is shared.
+
+When the trial expires you will begin a paid subscription period. If you do not wish to begin a paid subscription period, please cancel your pricing plan within the 14-days of free trial. When you cancel a plan, you can still use our [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button" plugin as before.
+
+The [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button") plugin doesn't require a subscription and therefore doesn't have a trial. If a card on your account stops working, your account may be suspended and all your ads and social campaigns paused.
+
 = What kind of support do I get? =
 
 Wishpond campaigns are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
