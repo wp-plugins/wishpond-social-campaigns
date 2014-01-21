@@ -185,6 +185,9 @@ The [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook A
 
 Wishpond campaigns are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
 
+= I have another question, what do I do? =
+
+Don't hesitate to contact us! If you ever need a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
 
 == Screenshots ==
 
