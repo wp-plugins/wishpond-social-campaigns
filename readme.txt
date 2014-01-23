@@ -200,7 +200,6 @@ Don't hesitate to contact us! If you ever need a question, you can always call u
 7. Contact Database
 8. Campaign Analytics
 
-
 == Changelog ==
 
 = 1.3 =
