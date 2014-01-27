@@ -72,7 +72,7 @@ function wpsc_func($attrs) {
   $js = $js."// hey hey";
 
   // Where do we go to render this campaign?
-  if ($attrs['dev'] != "") {
+  if (isset($attrs['dev'])) {
     $host = "dev.wishpond.com";
   }
   else {
