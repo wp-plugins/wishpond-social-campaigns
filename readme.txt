@@ -3,7 +3,7 @@ Contributors: atajsekandar, cosminatanasiu
 Tags: facebook, twitter, promotion, contest, campaigns, campaign, social, social campaigns, social campaign, photo, photos, deal, offer, sale, sales, deals, promote, marketing, sweepstakes, social, pinterest, ecommerce, e-commerce, facebook promotion, facebook contest, facebook campaign, facebook store, store stores facebook stores, facebook offer, facebook social offer, facebook deals, facebook deal, photo contests, group deals, group offers, social offers, photo contests, Video Contest, video contests, admin, dashboard, widget, widgets, plugins, music contest, music contests, sweepstake, sweepstakes, sidebar, sidebars referrals, bonus
 Requires at least: 2.0.2
 Tested up to: 3.4.1
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -201,6 +201,9 @@ Don't hesitate to contact us! If you ever need a question, you can always call u
 8. Campaign Analytics
 
 == Changelog ==
+
+= 1.3.1 =
+* Fix php notice not supposed to be showing
 
 = 1.3 =
 * Ensured all transactions are secure
