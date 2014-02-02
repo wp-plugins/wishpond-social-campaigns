@@ -5,8 +5,8 @@
 /*
 Plugin Name: Wishpond Social Promotions
 Plugin URI: http://corp.wishpond.com/social-promotions
-Description: Use this plugin to run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Promotions allows you to run contests such as sweepstakes, group deals (offers), photo contests, vote contests, pinterest contests, photo caption contests, etc. Run your own promotions today.
-Version: 1.3
+Description: Run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter. Promotions allows you to run contests such as sweepstakes, group deals (offers), photo contests, vote contests, pinterest contests, photo caption contests, etc.
+Version: 1.3.1
 Author: Wishpond
 Author URI: http://www.wishpond.com
 */
