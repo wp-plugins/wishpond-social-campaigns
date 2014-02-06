@@ -1,6 +1,6 @@
 === Social Contests ===
 Contributors: atajsekandar, cosminatanasiu
-Tags: facebook, twitter, promotion, contest, campaigns, campaign, social, social campaigns, social campaign, photo, photos, deal, offer, sale, sales, deals, promote, marketing, sweepstakes, social, pinterest, ecommerce, e-commerce, facebook promotion, facebook contest, facebook campaign, facebook store, store stores facebook stores, facebook offer, facebook social offer, facebook deals, facebook deal, photo contests, group deals, group offers, social offers, photo contests, Video Contest, video contests, admin, dashboard, widget, widgets, plugins, music contest, music contests, sweepstake, sweepstakes, sidebar, sidebars referrals, bonus, manage, simple, integration
+Tags: facebook, twitter, promotion, contest, campaigns, campaign, social, social campaigns, social campaign, photo, photos, deal, offer, sale, sales, deals, promote, marketing, sweepstakes, social, pinterest, ecommerce, e-commerce, facebook promotion, facebook contest, facebook campaign, facebook store, store stores facebook stores, facebook offer, facebook social offer, facebook deals, facebook deal, photo contests, group deals, group offers, social offers, photo contests, Video Contest, video contests, admin, dashboard, widget, widgets, plugins, music contest, music contests, sweepstake, sweepstakes, sidebar, sidebars referrals, bonus, manage, simple, integration, easy
 Requires at least: 2.0.2
 Tested up to: 3.4.1
 Stable tag: 1.3.1
