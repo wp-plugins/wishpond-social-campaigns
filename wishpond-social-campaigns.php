@@ -8,7 +8,7 @@ Plugin URI: http://corp.wishpond.com/social-promotions
 Description: Run promotional campaigns on your WordPress site that spread quickly on Facebook and Twitter and drive new customers.
 Version: 1.3.1
 Author: Wishpond
-Author URI: http://www.wishpond.com
+Author URI: http://corp.wishpond.com
 */
 
 include_once dirname( __FILE__ ) . '/social_campaign_widget.php';
