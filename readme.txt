@@ -34,7 +34,6 @@ Some of our experienced customers boast **over a few thousand leads** for this p
 - Send email marketing automation campaigns to contest & promotion participants to turn them into customers
 
 
-
 **Contest & Promotion Apps Included in Wishpond’s Wordpress Plugin:**
 
 **[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")**
