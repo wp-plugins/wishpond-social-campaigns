@@ -1,8 +1,8 @@
 === Social Contests ===
-Contributors: atajsekandar, cosminatanasiu
-Tags: facebook, twitter, promotion, contest, campaigns, campaign, social, social campaigns, social campaign, photo, photos, deal, offer, sale, sales, deals, promote, marketing, sweepstakes, social, pinterest, ecommerce, e-commerce, facebook promotion, facebook contest, facebook campaign, facebook store, store stores facebook stores, facebook offer, facebook social offer, facebook deals, facebook deal, photo contests, group deals, group offers, social offers, photo contests, Video Contest, video contests, admin, dashboard, widget, widgets, plugins, music contest, music contests, sweepstake, sweepstakes, sidebar, sidebars referrals, bonus
+Contributors: atajsekandar
+Tags: facebook, twitter, promotion, promotions, contest, contests, campaigns, campaign, social, social campaigns, social campaign, social promotion, social promotions, photo, photos, deal, offer, sale, sales, deals, promote, marketing, sweepstakes, social, pinterest, ecommerce, e-commerce, facebook promotion, facebook contest, facebook campaign, facebook store, store stores facebook stores, facebook offer, facebook social offer, facebook deals, facebook deal, photo contests, group deals, group offers, social offers, photo contests, Video Contest, video contests, admin, dashboard, widget, widgets, plugins, music contest, music contests, sweepstake, sweepstakes, sidebar, sidebars referrals, bonus, manage, simple, integration, easy, quick
 Requires at least: 2.0.2
-Tested up to: 3.4.1
+Tested up to: 3.8.1
 Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,17 +12,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Run Social Contests & Promotions on your Wordpress site & Facebook Page. This plugin works great with the [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to get more leads and improved conversion rates on your site.
 
-Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin. Some of our customers boast over **30,000 leads in 6 weeks**.
+Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin. 
 
 This plugin lets you have access to the Wishpond Social Contests right from your wordpress admin.
 
 **Free Trial & Pricing**
 
+**30,000 leads in 6 weeks** were acquired by some of our customers, which is unparalleled value for your money.
+
 [Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews") 
 
 A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
-
-Some of our experienced customers boast **over a few thousand leads** for this price, which is unparalleled value for your money.
 
 **Why use Wishpond’s Wordpress Plugin?**
 
@@ -35,7 +35,6 @@ Some of our experienced customers boast **over a few thousand leads** for this p
 
 
 **Contest & Promotion Apps Included in Wishpond’s Wordpress Plugin:**
-
 
 **[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")**
 Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card. Sweepstakes are an easy way to engage fans of your brand and get new leads with a very low barrier to entry.
@@ -187,7 +186,7 @@ Wishpond campaigns are extremely easy and fast to set up. If you ever need assis
 
 = I have another question, what do I do? =
 
-Don't hesitate to contact us! If you ever need a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
+Contact us Anytime! If you ever need a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
 
 == Screenshots ==
 
@@ -201,6 +200,9 @@ Don't hesitate to contact us! If you ever need a question, you can always call u
 8. Campaign Analytics
 
 == Changelog ==
+
+= 1.3.1 =
+* Fix php notice not supposed to be showing
 
 = 1.3 =
 * Ensured all transactions are secure
