@@ -182,7 +182,7 @@ The [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook A
 
 = What kind of support do I get? =
 
-Wishpond campaigns are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
+Wishpond campaigns are very easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
 
 = I have another question, what do I do? =
 
