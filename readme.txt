@@ -1,21 +1,28 @@
 === Social Contests ===
 Contributors: atajsekandar
-Tags: facebook, twitter, promotion, contest, photo, deal, campaign, marketing, sweepstakes, social, pinterest, ecommerce, facebook promotion, facebook contest, photo contests, group deals, photo contest, Video Contest, widget, plugin, sidebar, referral, bonus
+Tags: facebook, twitter, promotion, promotions, contest, contests, campaigns, campaign, social, social campaigns, social campaign, social promotion, social promotions, photo, photos, deal, offer, sale, sales, deals, promote, marketing, sweepstakes, social, pinterest, ecommerce, e-commerce, facebook promotion, facebook contest, facebook campaign, facebook store, store stores facebook stores, facebook offer, facebook social offer, facebook deals, facebook deal, photo contests, group deals, group offers, social offers, photo contests, Video Contest, video contests, admin, dashboard, widget, widgets, plugins, music contest, music contests, sweepstake, sweepstakes, sidebar, sidebars referrals, bonus, manage, simple, integration, easy, quick
 Requires at least: 2.0.2
-Tested up to: 3.4.1
-Stable tag: 1.3
+Tested up to: 3.8.1
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-
 == Description ==
 
-Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin.
+> Run Social Contests & Promotions on your Wordpress site & Facebook Page. This plugin works great with the [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to get more leads and improved conversion rates on your site.
 
+Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin. 
 
-[Start your 14-day free trial.](https://www.wishpond.com/central/merchant_signups/new "Signup")
+This plugin lets you have access to the Wishpond Social Contests right from your wordpress admin.
 
+**Free Trial & Pricing**
+
+**30,000 leads in 6 weeks** were acquired by some of our customers, which is unparalleled value for your money.
+
+[Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews") 
+
+A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 **Why use Wishpond’s Wordpress Plugin?**
 
@@ -28,7 +35,6 @@ Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Swe
 
 
 **Contest & Promotion Apps Included in Wishpond’s Wordpress Plugin:**
-
 
 **[Sweepstakes](http://corp.wishpond.com/social-sweepstakes/ "Social Sweepstakes")**
 Run a Sweepstakes on your website and/or Facebook Page that gives away a free item or gift card. Sweepstakes are an easy way to engage fans of your brand and get new leads with a very low barrier to entry.
@@ -154,7 +160,7 @@ If you use WP eCommerce, this integration will work well with it. A 'Promotions'
 
 = Do I need to have a Wishpond account set up already? =
 
-No. We automatically create a Wishpond account for you.
+No. We automatically create a Wishpond account for you using your site administrator e-mail.
 
 = How much does it cost to run a campaign? =
 
@@ -166,10 +172,21 @@ No. We automatically create a Wishpond account for you.
 
 Yes, you can try Social Campaigns completely free for the first 14 days.
 
+= Is the 14-day free trial shared with the other Wishpond plugins? =
+
+Yes and no. When you sign up for a free trial with the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugin or with our [Social Contests](http://wordpress.org/plugins/wishpond-social-campaigns/ "Run social campaigns on wordpress") plugin, the subscription and trial are shared.
+
+When the trial expires you will begin a paid subscription period. If you do not wish to begin a paid subscription period, please cancel your pricing plan within the 14-days of free trial. When you cancel a plan, you can still use our [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button" plugin as before.
+
+The [Facebook Ads](http://wordpress.org/plugins/facebook-ads/ "Create Facebook Ads for your wordpress with one button") plugin doesn't require a subscription and therefore doesn't have a trial.
+
 = What kind of support do I get? =
 
 Wishpond campaigns are extremely easy and fast to set up. If you ever need assistance, we are available to you through live chat, email, and phone support.
 
+= I have another question, what do I do? =
+
+Contact us Anytime! If you ever need a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you directly through this plugin.
 
 == Screenshots ==
 
@@ -182,8 +199,10 @@ Wishpond campaigns are extremely easy and fast to set up. If you ever need assis
 7. Contact Database
 8. Campaign Analytics
 
-
 == Changelog ==
+
+= 1.3.1 =
+* Fix php notice not supposed to be showing
 
 = 1.3 =
 * Ensured all transactions are secure
