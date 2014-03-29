@@ -10,14 +10,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Run Social Contests & Promotions on your Wordpress site & Facebook Page, directly from your wordpress admin.
+> Run Social Contests & Promotions on your Wordpress site & Facebook Page, directly from your wordpress site.
 
 
 > This plugin works great with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to get more leads and improved conversion rates on your site.
 
 Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Sweepstakes, Photo Contests and more with one easy plugin. 
 
-This plugin lets you have access to the Wishpond Social Contests right from your wordpress admin.
+This plugin lets you have access to the Wishpond Social Contests right from your wordpress administration interface.
 
 **Free Trial & Pricing**
 
