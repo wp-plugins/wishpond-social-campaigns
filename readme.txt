@@ -194,9 +194,9 @@ Contact us Anytime! If you ever need a question, you can always call us at: `1-8
 == Screenshots ==
 
 1. Live Social Contests & Promotions
-2. Creating a Sweepstakes using the plugin in your Wordpress Admin
-3. Creating a Facebook Ad using the plugin in your Wordpress Admin (Part 1)
-4. Creating a Facebook Ad using the plugin in your Wordpress Admin (Part 2)
+2. Create a Sweepstakes using the plugin in your Wordpress Admin
+3. Create a Facebook Ad using the plugin in your Wordpress Admin (Part 1)
+4. Create a Facebook Ad using the plugin in your Wordpress Admin (Part 2)
 5. Your Ad on Facebook
 6. Email Automation Campaigns
 7. Contact Database
