@@ -25,7 +25,7 @@ A 14-day free trial is available, after which pricing starts at $19/month. You c
 
 [Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews")
 
-## 30,000 leads in 6 weeks ##
+### 30,000 leads in 6 weeks
 Many of our customers boast great numbers like 30,000 leads in 6 weeks, which is unparalleled value for your money.
 
 **Why use Wishpond’s Wordpress Plugin?**
