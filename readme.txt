@@ -19,14 +19,14 @@ Run Social Contests & Promotions on your Wordpress site & Facebook Page. Run Swe
 
 This plugin lets you have access to the Wishpond Social Contests right from your wordpress administration interface.
 
+### 30,000 leads in 6 weeks
+Many of our customers boast great numbers like 30,000 leads in 6 weeks, which is unparalleled value for your money.
+
 **Free Trial & Pricing**
 
 A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 [Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews")
-
-### 30,000 leads in 6 weeks
-Many of our customers boast great numbers like 30,000 leads in 6 weeks, which is unparalleled value for your money.
 
 **Why use Wishpond’s Wordpress Plugin?**
 
