@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create and run Social Contests & Promotions on your Wordpress site & Facebook Page, directly from your wordpress site.
+> Create Social Contests & Promotions on your Wordpress site, on your Facebook Page or anywhere else.
 
 
 > This plugin works great with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to get more leads and improved conversion rates on your site.
