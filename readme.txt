@@ -21,13 +21,6 @@ This plugin lets you have access to the Wishpond Social Contests right from your
 
 ###Free Trial & Pricing###
 
-A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
-
-**30,000 leads in 6 weeks**
-Many of our customers boast great numbers like 30,000 leads in 6 weeks, which is unparalleled value for your money.
-
-[Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews")
-
 **Why use Wishpond’s Wordpress Plugin?**
 
 - Collect email addresses and new “Likes” and “Followers”
@@ -78,7 +71,12 @@ Run and promote coupons on Facebook Pages, Twitter, your Wordpress site & mobile
 **[Group Offers](http://corp.wishpond.com/social-offers/ "Group Offers")**
 Create a store-wide or item discount coupon or a group-buy offer. Social Offers is integrated directly with PayPal for automated payment. Use custom coupon codes for unique coupon redemption.
 
+A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
+**30,000 leads in 6 weeks**
+Many of our customers boast great numbers like 30,000 leads in 6 weeks, which is unparalleled value for your money.
+
+[Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews")
 
 **Facebook Ads Tool Included in Wishpond’s Wordpress Plugin:**
 Create Facebook Ads to promote your contests, promotions and Wordpress site, directly from the plugin in your Wordpress admin.
