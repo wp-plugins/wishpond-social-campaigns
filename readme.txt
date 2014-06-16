@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create great Social Contests & Promotions from Wordpress. Host them on Wordpress, on your Facebook Page, on Twitter or anywhere else.
+> Create great Social Contests & Promotions from Wordpress. Host them on your Wordpress site, on your Facebook Page, on Twitter or anywhere else.
 
 > This plugin works great with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to get leads and improved conversion rates on your site.
 
