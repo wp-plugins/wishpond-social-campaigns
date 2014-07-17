@@ -31,9 +31,6 @@ This plugin lets you have access to the Wishpond Social Contests right from your
 
 A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
-**30,000 leads in 6 weeks**
-Many of our customers boast great numbers like 30,000 leads in 6 weeks, which is unparalleled value for your money.
-
 [Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews")
 
 **Facebook Ads Tool Included in Wishpond’s Wordpress Plugin:**
