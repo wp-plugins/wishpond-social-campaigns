@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-> Create great Social Contests & Promotions from Wordpress. Host them on your Wordpress site, on your Facebook Page, on Twitter or anywhere else.
+> Create great Social Contests & Promotions from your Wordpress site. Host them on your Wordpress site, on your Facebook Page, on Twitter or anywhere else.
 
 > This plugin works great with the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to get leads and improved conversion rates on your site.
 
@@ -20,7 +20,7 @@ This plugin lets you have access to the Wishpond Social Contests right from your
 
 **Why use Wishpond’s Wordpress Plugin?**
 
-- Collect email addresses and new “Likes” and “Followers”
+- Collect email addresses and new "Likes" and "Followers"
 - Create your first campaign in minutes.
 - Run Contests and Promotions on your Wordpress site, Facebook Page, Twitter Profile Page and on Mobile
 - Built-in Facebook and Twitter sharing on every contest entry and vote drives sharing and traffic back to your Wordpress site
