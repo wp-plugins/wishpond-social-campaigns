@@ -25,7 +25,7 @@ This plugin lets you have access to the Wishpond Social Contests right from your
 - Run Contests and Promotions on your Wordpress site, Facebook Page, Twitter Profile Page and on Mobile
 - Built-in Facebook and Twitter sharing on every contest entry and vote drives sharing and traffic back to your Wordpress site
 - Promote your contests & Wordpress site using Wishpond's Facebook Ads Tool, including our Ad Buddy system, which selects your target audience for you, based on your business.
-- Send email marketing automation campaigns to contest & promotion participants to turn them into customers
+- Send email marketing automation campaigns to landing page, contest & promotion participants to turn them into customers
 
 **Free Trial & Pricing**
 
