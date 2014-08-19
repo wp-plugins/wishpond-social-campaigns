@@ -29,7 +29,7 @@ This plugin lets you have access to the Wishpond Social Contests right from your
 
 **Free Trial & Pricing**
 
-A 14-day free trial is available, after which pricing starts at $19/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
+A 14-day free trial is available, after which pricing starts at $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 [Check out what our customers said about us](http://corp.wishpond.com/customer-case-studies/ "Customer Reviews")
 
