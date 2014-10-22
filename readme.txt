@@ -201,7 +201,7 @@ If you ever have a question, you can always call us at: `1-800-921-0167`, email 
 == Changelog ==
 
 = 1.3.1 =
-* Fix php notice not supposed to be showing
+* Fix php notice accidentally showing on some platforms
 
 = 1.3 =
 * Ensured all transactions are secure
