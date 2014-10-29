@@ -16,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Run Social Contests & Promotions on your Wordpress site, Facebook Page and anywhere else. Run Sweepstakes, Photo Contests and more with one easy plugin.
 
-This plugin lets you have access to the Wishpond Social Contests from your wordpress admin, and so much more.
+This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and so much more.
 
 **Why use Wishpond’s Wordpress Plugin?**
 
@@ -29,9 +29,9 @@ This plugin lets you have access to the Wishpond Social Contests from your wordp
 
 **Free Trial & Pricing**
 
-A 14-day free trial is available, after which pricing starts at $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
-
 [Check out what our customers said about us](http://corp.wishpond.com/reviews/ "Customer Reviews")
+
+A 14-day free trial is available, after which pricing starts at $45/month. You can learn more about our pricing plans [here](http://corp.wishpond.com/pricing-plans/ "Pricing").
 
 **Facebook Ads Tool Included in Wishpond’s Wordpress Plugin:**
 Create Facebook Ads to promote your contests, promotions and Wordpress site, directly from the plugin in your Wordpress admin.
