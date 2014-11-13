@@ -16,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Run Social Contests & Promotions on your Wordpress site, Facebook Page and anywhere else. Run Sweepstakes, Photo Contests and more with one easy plugin.
 
-This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and so much more.
+This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and much more.
 
 **Why use Wishpond’s Wordpress Plugin?**
 
