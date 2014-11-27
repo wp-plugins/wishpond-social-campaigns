@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Download the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to generate more leads and and get improved conversion rates on your site.
 
-This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and much more.
+This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and so much more.
 
 Run Social Contests & Promotions on your Wordpress site, Facebook Page and anywhere else. Run Sweepstakes, Photo Contests and more with one easy plugin.
 
