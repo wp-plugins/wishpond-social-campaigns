@@ -185,7 +185,7 @@ Wishpond campaigns are very easy and fast to set up. If you ever need assistance
 
 Contact us Anytime!
 
-If you have a question, you can always call us at: `1-800-921-0167`, email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you inside this plugin.
+If you have a question, you can always email us at [support@wishpond.com](mailto://support@wishpond.com "Wishpond Support") or just use the live chat available to you inside this plugin.
 
 == Screenshots ==
 
