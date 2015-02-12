@@ -5,7 +5,7 @@
 
 if ( ! defined( 'WISHPOND_SITE_URL' ) )
 {
-  define('WISHPOND_SITE_URL', 'https://www.wishpond.com');
+  define('WISHPOND_SITE_URL', 'https://www.lvh.me');
 }
 if ( ! defined( 'WISHPOND_ADMIN_MENU' ) )
 {
