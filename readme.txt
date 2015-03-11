@@ -84,7 +84,7 @@ Create a store-wide or item discount coupon or a group-buy offer. Social Offers 
 - Find New Customers: Advertise to people with similar tastes & interests as your current customers.
 
 
-**Email Marketing Automation Tool Included in Wishpond’s Wordpress Plugin:**
+****[Email Marketing Tool](http://corp.wishpond.com/email-marketing-automation "Email Marketing") included in Wishpond’s Wordpress Plugin:**
 The tool that makes it easy to send an automated series of highly targeted, personalized emails to your leads to turn them into customers.
 
 
