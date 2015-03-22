@@ -16,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and much more.
 
-Run Social Contests & Promotions on your Wordpress site, Facebook Page and anywhere else. Run Sweepstakes, Photo Contests and more with one easy plugin.
+Run Social Contests & Promotions on your Wordpress site, Facebook Page and anywhere else. Run Sweepstakes, Photo Contests, Instagram Contests and more with one easy plugin.
 
 **Why use Wishpond’s Wordpress Plugin?**
 
@@ -84,7 +84,7 @@ Create a store-wide or item discount coupon or a group-buy offer. Social Offers 
 - Find New Customers: Advertise to people with similar tastes & interests as your current customers.
 
 
-**[Email Marketing Tool](http://corp.wishpond.com/email-marketing-automation "Email Marketing") included in Wishpond’s Wordpress Plugin:**
+****[Email Marketing Tool](http://corp.wishpond.com/email-marketing-automation "Email Marketing") included in Wishpond’s Wordpress Plugin:**
 The tool that makes it easy to send an automated series of highly targeted, personalized emails to your leads to turn them into customers.
 
 
