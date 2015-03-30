@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 > Create great Sweepstakes, Contests, Promotions and Landing Pages from your Wordpress. Host them on your Wordpress site, on your Facebook Page, on Twitter, on Wishpond or anywhere else.
 
-> Download the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Google Adwords and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to generate more leads and and get improved conversion rates on your site.
+> Download the [Ads Campaigns](http://wordpress.org/plugins/ads-campaigns/ "Create Retargeting and Facebook Ads campaigns with one click") and the [Landing Pages Builder](http://wordpress.org/plugins/landing-pages-builder/ "Landing Pages Builder") plugins to generate more leads and and get improved conversion rates on your site.
 
 This plugin lets you have access to the Wishpond Social Contests from your wordpress site, and much more.
 
